@@ -1,4 +1,4 @@
-# Curso R
+# Recursos para aprender lenguaje R para Modelos de Predicción Analítica
 
 Este contenido es un recurso abierto de introducción al lenguaje R.
 
